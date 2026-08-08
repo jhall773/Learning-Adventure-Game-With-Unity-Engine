@@ -2,7 +2,9 @@ Showing some key C# game source files and the executable for a draft game projec
 
 # To Play the Game:
 Please 1st run the Windows executable (.exe) or application file. Once you are in the game, you can either:
-  a.) Leave the odd/even cave game by clicking the "Leave Game" button or 
+
+  a.) Leave the odd/even cave game by clicking the "Leave Game" button or
+  
   b.) Explore the odd/even cave game. Note: The "How To Play" button is in the bottom right (clicking this will explain the controls).
 
 Once you "Leave" the odd/even cave game, you will be taken to a farmland (main world) area.
