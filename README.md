@@ -1,12 +1,12 @@
 Showing some key C# game source files and the executable for a draft game project made with the Unity game engine.
 
 # To Play the Game:
-Please 1st run the Windows executable (.exe) or application file.
-Once you are in the game, you can either:
-a.) Leave the odd/even cave game by clicking the "Leave Game" button or 
-b.) Explore the odd/even cave game. Note: The "How To Play" button is in the bottom right (clicking this will explain the controls).
+Please 1st run the Windows executable (.exe) or application file. Once you are in the game, you can either:
+  a.) Leave the odd/even cave game by clicking the "Leave Game" button or 
+  b.) Explore the odd/even cave game. Note: The "How To Play" button is in the bottom right (clicking this will explain the controls).
 
 Once you "Leave" the odd/even cave game, you will be taken to a farmland (main world) area.
+
 **Note: If you would like to play the other game in this Adventure, please use your keyboard's arrow keys and walk to the far top left corner of the map.
 Then use your "T" key to interact with the Handyman and continue clicking in the back message boxes until you see the yellow word "Sure!" and select that option.**
 
